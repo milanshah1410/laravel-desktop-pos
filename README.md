@@ -54,3 +54,4 @@ php artisan migrate --seed
 
 # Run app
 php artisan native:serve
+npm run dev
